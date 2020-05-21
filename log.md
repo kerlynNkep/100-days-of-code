@@ -1,12 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 9, 2019 
+### Day 1: May 20, 2020 
 
-**Today's Progress**: Studied 5 modules in an angular course from pluralsight and tried to setup for mozilla.
+**Today's Progress**: 
+- Studied 1 chapter in Django_3_By_Example and started building a Blog app.
+- I learned the model view template apprached and applied it in my app. 
+- Started the blog home page and also the detail page. 
 
-**Thoughts:** I faced several errors in setting up the development environment for mozilla so i wrote to a senior developer who explained to me ways in which i could solve the problem.  
+**Thoughts:** I had to spend several hours trying to fix my laptop. I installed a virtual environment using python 3 and I lost my terminal. I later restarted my machine then I lost my gui. I had to reinstall ubuntu desktop   
 
-**Link to work:** 
+**Link to work:** : Link to commit on github: https://github.com/kerlynNkep/My-Blog/commit/1890ffc13cf2891376d9d255a9dcf2833bcc3951
 
 ### Day 2: January 10, 2019 
 ##### (delete me or comment me out)
@@ -18,12 +21,3 @@
 **Link(s) to work**:
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
